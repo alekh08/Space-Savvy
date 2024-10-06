@@ -83,5 +83,7 @@ Contact
 For any questions or feedback, feel free to reach out:
 
 Email: alekhsachan03@gmail.com
+Email: kunalkushwaha1806@gmail.com
 
 GitHub: alekh08
+GitHub: kunalkushwaha1806
