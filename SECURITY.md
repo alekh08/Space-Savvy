@@ -7,10 +7,9 @@ Version	Supported
 5.0.x	❌ No
 4.0.x	✅ Yes
 < 4.0	❌ No
-Reporting a Vulnerability
-We take security vulnerabilities seriously and appreciate your efforts to responsibly disclose them. Please follow the process outlined below to report a vulnerability:
 
-Contact: Report vulnerabilities via email to security@example.com. Include the following details in your report:
+
+
 
 A clear description of the issue.
 Steps to reproduce the vulnerability.
